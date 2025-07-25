@@ -1,4 +1,4 @@
-# Teachers-Day-Challenge---2025-
+# Teachers-Day-Challenge-2025
 # 43 Days Coding Challenge 🚀
 
 A daily problem-solving initiative by **VIT Bhopal** as part of the **#TeachersDay Challenge** and **#MissionDrGViswanathan**. This challenge is aimed at boosting consistency, sharpening coding skills, and improving interview preparation — one day, one problem at a time.
