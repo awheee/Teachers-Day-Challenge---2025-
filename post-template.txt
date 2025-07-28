@@ -1,4 +1,4 @@
-Day X of #Teachersday Challenge by PAT Team of VIT Bhopal University!
+Day X of #TeachersDay Challenge by PAT Team of VIT Bhopal University!
 Problem Solved: LeetCode [Problem Title] – [Short Description]
 GitHub Repo: [https://github.com/awheee/Teachers-Day-Challenge---2025-]
 
