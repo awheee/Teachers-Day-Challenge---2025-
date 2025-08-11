@@ -3,18 +3,20 @@
 using namespace std;
 
 int main() {
-    int n, x = 0;
+    int n;
     cin >> n;
-    string s;
-
-    while (n--) {
-        cin >> s;
-        if (s[1] == '+') 
+    int x = 0;
+    string statement;
+    
+    for (int i = 0; i < n; i++) {
+        cin >> statement;
+        if (statement == "++x" || statement == "x++") {
             x++;
-        else
+        } else if (statement == "--x" || statement == "x--") {
             x--;
+        }
     }
-
-    cout << x << endl;
+    
+    cout << x << "\n";
     return 0;
 }
